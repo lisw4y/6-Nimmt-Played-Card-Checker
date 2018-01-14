@@ -1,0 +1,15 @@
+#panel {
+	table-layout: fixed;
+	width: 99.9%;
+}
+
+tr.buttons td {
+	text-align: center;
+}
+
+tr.cards td {
+	border: 1px solid black;
+	text-align: center;
+	font-size: 50%;
+	min-width: 3ch;
+}
